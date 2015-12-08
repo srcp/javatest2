@@ -1,12 +1,7 @@
-package com.mycompany.app;
-
-/**
- * Hello world!
- *
- */
-public class App 
-{
-	//@param args output
+public class main{
+	@param args input 
+	@param o output
+	
 	public static void main(String args[]){
 
 		for(String o : args){
@@ -14,3 +9,4 @@ public class App
 		}
 	}
 }
+
